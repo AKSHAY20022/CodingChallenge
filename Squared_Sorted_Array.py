@@ -25,6 +25,6 @@ def sorted_squared_array(array):
 
 # Test the function
 array = [1, 2, 3, 5, 6, 8, 9]
-print(sorted_squared_array(array))  # Expected output: [1, 4, 9, 25, 36, 64, 81]
+print(sorted_squared_array(array))  
 
 
